@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "venv/bin/python"
+    "python.pythonPath": "/usr/local/bin/python3.6",
+    "azureFunctions.deploySubpath": "fantasyfootball.zip",
+    "azureFunctions.pythonVenv": "venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack"
 }
