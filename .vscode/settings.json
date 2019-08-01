@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3.6",
+    "python.pythonPath": "venv/bin/python",
     "azureFunctions.deploySubpath": "fantasyfootball.zip",
     "azureFunctions.pythonVenv": "venv",
     "azureFunctions.projectLanguage": "Python",
